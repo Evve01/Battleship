@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd1a4fa-1a1e-4156-8e48-bf9aa6b30a3c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8bd1a4fa-1a1e-4156-8e48-bf9aa6b30a3c" name="Default" comment="Continued UML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/AttackGrid$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/AttackGrid$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/AttackGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/AttackGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/BattleGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/BattleGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/BattleShip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/BeginningOfTheGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/BeginningOfTheGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/Coordinate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/Coordinate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/EndOFTheGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/EndOFTheGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/GameState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/GameState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/MiddleOfTheGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/MiddleOfTheGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerScreen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerScreen$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/PlayerScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/SelfGrid$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/SelfGrid$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/SelfGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/SelfGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Battleship/danil/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Battleship/danil/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml.md" beforeDir="false" afterPath="$PROJECT_DIR$/uml.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,8 +205,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebbaa/OneDrive/Documents/GitHub/Battleship&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
   <component name="RunManager">
@@ -385,6 +369,23 @@
       <option name="presentableId" value="Default" />
       <updated>1508720739532</updated>
     </task>
+    <task id="LOCAL-00001" summary="Began UML">
+      <option name="closed" value="true" />
+      <created>1702289349756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702289349756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Continued UML">
+      <option name="closed" value="true" />
+      <created>1702291449479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702291449479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -455,6 +456,11 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Began UML" />
+    <MESSAGE value="Continued UML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continued UML" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
